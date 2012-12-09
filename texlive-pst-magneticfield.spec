@@ -60,3 +60,17 @@ the documentation of the package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar dvips tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.13-2
++ Revision: 755323
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.13-1
++ Revision: 719367
+- texlive-pst-magneticfield
+- texlive-pst-magneticfield
+- texlive-pst-magneticfield
+- texlive-pst-magneticfield
+
