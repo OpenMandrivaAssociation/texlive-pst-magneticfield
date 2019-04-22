@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.13
 Name:		texlive-pst-magneticfield
-Version:	1.13
-Release:	11
+Version:	1.16
+Release:	1
 Summary:	Plotting a magnetic field with PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-magneticfield
