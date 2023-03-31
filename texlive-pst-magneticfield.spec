@@ -1,6 +1,6 @@
 Name:		texlive-pst-magneticfield
 Version:	63821
-Release:	1
+Release:	2
 Summary:	Plotting a magnetic field with PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-magneticfield
