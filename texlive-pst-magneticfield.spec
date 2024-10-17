@@ -3,7 +3,7 @@ Version:	69493
 Release:	1
 Summary:	Plotting a magnetic field with PSTricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-magneticfield
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-magneticfield
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-magneticfield.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-magneticfield.doc.r%{version}.tar.xz
